@@ -1,5 +1,6 @@
 # TechBridge Job Board
-TechBridge Job Board 為提供社群朋友分享科技、網路軟體產業相關職缺（例如：工程師、設計師、產品經理、專案經理、資料科學家等）分享平台TechBridge Job Board provides community users to share job infomations in technology related position (ex. Engineer, Designer, PM, Data Science, etc.). 
+TechBridge Job Board 為提供社群朋友分享科技、網路軟體產業相關職缺（例如：工程師、設計師、產品經理、專案經理、資料科學家等）分享平台。
+TechBridge Job Board provides community users to share job infomations in technology related position (ex. Engineer, Designer, PM, Data Science, etc.). 
 
 ## 使用方式
 請到 issue 發佈職缺，請務必包含以下資訊，以免張貼訊息遭到檢舉移除：
