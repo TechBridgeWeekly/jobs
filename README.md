@@ -8,6 +8,14 @@ TechBridge Job Board 為提供社群朋友分享科技、網路軟體產業相�
 
     issue 張貼格式：
 
+    標題：
+
+    ```
+    [徵才] TechBridge Weekly 徵求全職資料科學家一名
+    ```
+
+    內容：
+
     ```
     職缺名稱（job title）：請填寫您的職缺名稱
     職缺工作地點（job location）：請填寫您的職缺工作地點
