@@ -24,14 +24,13 @@ TechBridge Job Board provides community users to share job infomations in techno
     職缺工作地點（job location）：請填寫您的職缺工作地點
     職缺工作能力要求（skill requirements）：請填寫您的職缺能力要求
     薪資範圍（salary range）：請填寫預期年薪或是月薪
-    工時/特休（time）：
-    應徵聯絡方式（apply contacts）：請填寫應徵方式
+    工時/特休（time）：請填寫工時和特休
+    應徵聯絡方式（apply contacts）：請填寫應徵方式
 
     （選擇性補充）
     福利（welfare）：
     加分項目（bonus）：
     團隊技術介紹（tech stack）：
-    ...
     ```
 
     若成功完成徵才，請記得請同仁回來把 issue 關掉，謝謝！
