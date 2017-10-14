@@ -19,12 +19,12 @@ TechBridge Job Board provides community users to share job infomations in techno
 
     ```
     職缺名稱（job title）：請填寫您的職缺名稱
+    公司/團隊簡介（company/team description）：請填寫您的公司介紹
+    職缺工作內容描述（job description）：請填寫您的職缺工作內容介紹
     職缺工作地點（job location）：請填寫您的職缺工作地點
-    職缺工作內容（job description）：請填寫您的職缺工作內容介紹
     職缺工作能力要求（skill requirements）：請填寫您的職缺能力要求
-    公司名稱（company name）：請填寫您的公司名稱
-    公司簡介（company description）：請填寫您的公司介紹
-    預期薪資範圍（salary range）：請填寫預期年薪或是月薪
+    薪資範圍（salary range）：請填寫預期年薪或是月薪
+    工時/特休（time）：
     應徵聯絡方式（apply contacts）：請填寫應徵方式
 
     （選擇性補充）
