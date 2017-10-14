@@ -12,7 +12,7 @@ TechBridge Job Board provides community users to share job infomations in techno
     標題：
 
     ```
-    [徵才] TechBridge Weekly 徵求全職資料科學家一名
+    [台北] TechBridge Weekly 徵求全職資料科學家一名
     ```
 
     內容：
